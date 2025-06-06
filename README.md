@@ -1,16 +1,31 @@
-## Hi there 👋
+<!-- Banner animato -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=gabrielequa;" alt="Typing SVG" />
+</p>
 
-<!--
-**gabrielequa/gabrielequa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Who am i?
 
-Here are some ideas to get you started:
+I'm **Gabriele**, a passionate developer from Italy. I love creating web applications and exploring new technologies and i'm always eager to learn more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What i do?
+
+- 💻 Fullstack web development (Frontend & Backend)
+- 💡 Love working with modern web technologies
+- 🛠️ Always experimenting with new tools & frameworks
+- 🧪 Currently working on personal project
+- 📚 Learning and improving my skills every day
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,python,mysql,angular,react,html,css,bootstrap,js,docker,vscode,git,github,vscode" />
+</p>
+
+## 📫 How to reach me?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielequagnano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gabrielequa"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+![snake gif](https://github.com/gabrielequa/gabrielequa/blob/output/github-contribution-grid-snake.svg)
