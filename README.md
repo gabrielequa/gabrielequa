@@ -18,14 +18,14 @@ I'm **Gabriele**, a passionate developer from Italy. I love creating web applica
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,mysql,angular,react,html,css,bootstrap,js,docker,vscode,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,mysql,angular,react,html,css,bootstrap,js,docker,git,vscode" />
 </p>
 
 ## 📫 How to reach me?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielequagnano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/gabrielequa"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabrielequagnano/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://github.com/gabrielequa"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ![snake gif](https://github.com/gabrielequa/gabrielequa/blob/output/github-contribution-grid-snake.svg)
