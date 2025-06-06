@@ -28,4 +28,4 @@ I'm **Gabriele**, a passionate developer from Italy. I love creating web applica
   <a href="https://github.com/gabrielequa"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
-![snake gif](https://github.com/gabrielequa/gabrielequa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/gabrielequa/gabrielequa/output/github-snake.svg)
