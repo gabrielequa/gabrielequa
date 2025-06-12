@@ -28,4 +28,8 @@ I'm **Gabriele**, a passionate developer from Italy. I love creating web applica
   <a href="https://github.com/gabrielequa"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/gabrielequa/gabrielequa/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielequa/gabrielequa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielequa/gabrielequa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gabrielequa/gabrielequa/output/github-snake.svg" />
+</picture>
